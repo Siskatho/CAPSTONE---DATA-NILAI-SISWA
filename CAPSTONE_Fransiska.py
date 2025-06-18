@@ -354,7 +354,7 @@ while True:
             count_siswa()  
 
                 
-#Instruction 8, Keluar dari program
+#Instruction 7, Keluar dari program
     elif instruction == 7:
         print("Terima kasih! Program Selesai.")
         print("Semoga Hari Anda Menyenangkan!")
