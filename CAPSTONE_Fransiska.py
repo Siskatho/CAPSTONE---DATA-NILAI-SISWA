@@ -292,7 +292,7 @@ while True:
                 print("\n--- Konfirmasi Perubahan ---")
                 print(f"Nama Lama        : {nama_siswa[index]}")
                 print(f"Nama Baru        : {name_baru if name_baru else nama_siswa[index]}")
-                print(f"Nilai Baru Modul : {m1} \n{m2} \n{m3}")
+                print(f"Nilai Baru Modul : \n{m1} \n{m2} \n{m3}")
                 konfirmasi = konfirmasi_ya_tidak("Yakin Ingin Menyimpan Perubahan? (Ya/Tidak): ")
 
                 if konfirmasi == 'Ya':
