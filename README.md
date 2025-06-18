@@ -1,4 +1,4 @@
-# CAPSTONE : DATA NILAI SISWA
+# CAPSTONE PROJECT : STUDENT GRADES DATA
 
 # Python CRUD Application for Student Score Management
 A comprehensive Python application for managing student grade records using Create, Read, Update, and Delete (CRUD) operations in a simple CLI (Command Line Interface) environment.
